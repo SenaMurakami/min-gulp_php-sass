@@ -5,7 +5,7 @@ phpとsassを使うときのGulpの最小開発環境。
 * scssとphpが更新された時にbrowser-syncでリロード。
 
 ## インストール
-1. clone
+1. git clone https://github.com/SenaMurakami/min-gulp_php-sass.git
 2. git init
 
 ## 使い方
